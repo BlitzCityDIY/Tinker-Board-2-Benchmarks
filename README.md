@@ -11,6 +11,7 @@ Charts were created using the plotext Python library: https://github.com/piccolo
 Big thanks to Les Pounder for the Tuesday Tooling blog post: https://bigl.es/tuesday-tooling-plotext/
 
 Additional resources:
+
 Overriding standard deviation on Phoronix: https://gist.github.com/anshula/728a76297e4a4ee7688d#overriding-standard-deviation
 
 Sparkfun guide on benchmarking single-board computers: https://learn.sparkfun.com/tutorials/single-board-computer-benchmarks/all
